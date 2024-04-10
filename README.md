@@ -1,5 +1,5 @@
 # LOAN Prediction System
-### This is Loan Prediction System Projects done for PBL in Semester 4
+### This is Loan Prediction System Projects done for PBL in Semester 5
 #### This project is created using tools:
 - VSCode
 - Jupyter Notebook
